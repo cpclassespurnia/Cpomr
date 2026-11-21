@@ -1,0 +1,8 @@
+{
+  "name": "CP Classes OMR",
+  "description": "OMR paper grading, optical bubble scanning, institute assessment management, and automated score report generator for CP CLASSES PURNIA",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

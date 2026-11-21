@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP Classes OMR</string>
+    <string name="institute_name">CP CLASSES PURNIA</string>
+    <string name="tagline">Center of Academic Excellence</string>
+    <string name="default_web_client_id">dummy_client_id</string>
+</resources>
